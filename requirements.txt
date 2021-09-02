@@ -1,2 +1,4 @@
-pyaudio
-websocket-client
+configparser==4.0.2
+PyAudio==0.2.11
+six==1.16.0
+websocket-client==0.59.0
